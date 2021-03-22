@@ -1,0 +1,12 @@
+E:\05_SVN\01_2021-换表项目\03_Code\Z_ONE1\Z-One\bin\Debug\Z-One.exe.config
+E:\05_SVN\01_2021-换表项目\03_Code\Z_ONE1\Z-One\bin\Debug\Z-One.exe
+E:\05_SVN\01_2021-换表项目\03_Code\Z_ONE1\Z-One\bin\Debug\Z-One.pdb
+E:\05_SVN\01_2021-换表项目\03_Code\Z_ONE1\Z-One\obj\Debug\Z-One.csprojAssemblyReference.cache
+E:\05_SVN\01_2021-换表项目\03_Code\Z_ONE1\Z-One\obj\Debug\Z_One.ZOneMain.resources
+E:\05_SVN\01_2021-换表项目\03_Code\Z_ONE1\Z-One\obj\Debug\Z_One.Properties.Resources.resources
+E:\05_SVN\01_2021-换表项目\03_Code\Z_ONE1\Z-One\obj\Debug\Z-One.csproj.GenerateResource.cache
+E:\05_SVN\01_2021-换表项目\03_Code\Z_ONE1\Z-One\obj\Debug\Z-One.csproj.CoreCompileInputs.cache
+E:\05_SVN\01_2021-换表项目\03_Code\Z_ONE1\Z-One\obj\Debug\Z-One.exe
+E:\05_SVN\01_2021-换表项目\03_Code\Z_ONE1\Z-One\obj\Debug\Z-One.pdb
+E:\05_SVN\01_2021-换表项目\03_Code\Z_ONE1\Z-One\obj\Debug\Z_One.source.Console.resources
+E:\05_SVN\01_2021-换表项目\03_Code\Z_ONE1\Z-One\obj\Debug\Z_One.source.AppVersion.resources
